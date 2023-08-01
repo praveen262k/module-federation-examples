@@ -1,12 +1,16 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 importers:
 
   .:
     devDependencies:
       pnpm:
-        specifier: 7.32.2
-        version: 7.32.2
+        specifier: 7.33.4
+        version: 7.33.4
       wait-on:
         specifier: 7.0.1
         version: 7.0.1
@@ -2467,8 +2471,8 @@ packages:
     dependencies:
       find-up: 4.1.0
 
-  /pnpm@7.32.2:
-    resolution: {integrity: sha512-PfosE4b8keWHVrO+z4d+ncIIQK9ypTAdRTrk2ioZ2wDN0I9L+mapzJVldVqsZdy7vakyMtxfknN2cn5wjESbvg==}
+  /pnpm@7.33.4:
+    resolution: {integrity: sha512-xEbf/tkwHpGM/GXq5U/sDSiE6ykLPho+o71PHNRWqkVLm6dJe4G/5Pg619Ow32ovekrr7pii5qtfamujB/+1bA==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true

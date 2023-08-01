@@ -2566,10 +2566,10 @@ pkg-dir@^4.1.0, pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-pnpm@7.32.2:
-  version "7.32.2"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.32.2.tgz#44dd92b75c57c600f3a7c08235b909d89c13de88"
-  integrity sha512-PfosE4b8keWHVrO+z4d+ncIIQK9ypTAdRTrk2ioZ2wDN0I9L+mapzJVldVqsZdy7vakyMtxfknN2cn5wjESbvg==
+pnpm@7.33.4:
+  version "7.33.4"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.33.4.tgz#b8e84bbad4c674b8582b7f01d22fb28c34e2de7c"
+  integrity sha512-xEbf/tkwHpGM/GXq5U/sDSiE6ykLPho+o71PHNRWqkVLm6dJe4G/5Pg619Ow32ovekrr7pii5qtfamujB/+1bA==
 
 postcss-modules-extract-imports@^3.0.0:
   version "3.0.0"
